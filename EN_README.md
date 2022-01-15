@@ -1,4 +1,4 @@
-![welcome](../BigFile/welcome.gif)
+![welcome](../../../BigFile/blob/master/welcome.gif)
 > 点击 [此处](README.md) 前往中文文档。
 
 > This file is mainly translated by machine.
