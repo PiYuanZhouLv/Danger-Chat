@@ -1,4 +1,4 @@
-![welcome](welcome.gif)
+![welcome](../BigFile/welcome.gif)
 > You can find an English version at [here](EN_README.md).
 # 危信
 一个简单危险通信程序
